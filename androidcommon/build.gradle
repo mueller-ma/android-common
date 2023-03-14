@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.github.muellerma.androidcommons'
+    namespace 'com.github.muellerma.androidcommon'
     compileSdk 33
 
     defaultConfig {

@@ -1,4 +1,4 @@
-package com.github.muellerma.androidcommons
+package com.github.muellerma.androidcommon.extensions
 
 import android.content.Context
 import android.widget.Toast

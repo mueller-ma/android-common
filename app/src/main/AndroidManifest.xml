@@ -10,7 +10,7 @@
             android:theme="@style/Theme.AndroidCommon"
             tools:targetApi="31">
         <activity
-                android:name=".MainActivity"
+                android:name="com.github.muellerma.androidcommonsample.MainActivity"
                 android:exported="true"
                 android:theme="@style/Theme.AndroidCommon.NoActionBar">
             <intent-filter>

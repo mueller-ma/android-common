@@ -1,8 +1,9 @@
-package com.github.muellerma.androidcommons
+package com.github.muellerma.androidcommonsample
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.github.muellerma.androidcommons.databinding.ActivityMainBinding
+import com.github.muellerma.androidcommon.databinding.ActivityMainBinding
+import com.github.muellerma.androidcommon.extensions.showToast
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

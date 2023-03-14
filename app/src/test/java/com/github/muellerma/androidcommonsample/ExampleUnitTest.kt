@@ -1,4 +1,4 @@
-package com.github.muellerma.androidcommons
+package com.github.muellerma.androidcommonsample
 
 import org.junit.Test
 
