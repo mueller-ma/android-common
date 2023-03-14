@@ -23,6 +23,6 @@ jobs:
         uses: gradle/wrapper-validation-action@v1.0.6
 
       - name: Build
-        run: bash gradlew build publish
+        run: bash gradlew build publishAllPublicationsToGithubPackagesRepository
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
